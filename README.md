@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Lenny&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=from%20bare%20metal%20to%20gradient%20descent&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Lenny&fontSize=80&fontColor=e6edf3&fontAlignY=35&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 

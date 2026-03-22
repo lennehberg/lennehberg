@@ -63,7 +63,7 @@ Self-taught game developer — building interactive systems for the joy of makin
 
 <br>
 
-## `$ cat tech_stack.md`
+## `$ cat tech_stack.json`
 
 ```python
 stack = {

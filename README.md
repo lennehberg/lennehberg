@@ -8,9 +8,8 @@
 ```
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Software Developer  ·  Mathematician  ·  Systems Thinker  │
-    │                                                             │
-    │   I build things that work — from registers to tensors.     │
+    │                                                             |
+    │   Software Developer  ·  Mathematician  ·  Systems Bulder   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -19,11 +18,12 @@
 
 ## `$ whoami`
 
-I'm a B.Sc. student in **Mathematics & Computer Science** at the **Hebrew University of Jerusalem**, with a background that spans **embedded systems**, **machine learning**, and **pure mathematics**.
+Currently a B.Sc. student in **Mathematics & Computer Science** at **The Hebrew University of Jerusalem**. 
+Builder of ideas, writer of code, avid gamer. 
 
-I care about understanding systems at every level of abstraction — from precision missile electronics in the Israeli Air Force, to writing an OS from scratch, to training classifiers and evaluating LLMs.
+Feeling Comfortable around **embedded systems**, **machine learning**, **game development** and **pure mathematics**
 
-My coursework reads more like a math PhD track than a typical CS degree: **Functional Analysis**, **Analysis on Manifolds**, **Lie Groups**, **Complex Variables**. That mathematical depth shapes how I think about software.
+Maths must-haves: **Functional Analysis**, **Analysis on Manifolds**, **Lie Groups**, **Game Theory**.
 
 <br>
 
@@ -42,8 +42,8 @@ Built a complete computer system from NAND gates up:
 <td width="50%" valign="top">
 
 ### ⏱ Round-Robin Scheduler
-Preemptive process scheduler with configurable time quantum, built on top of the xv6 teaching OS.
-<br><sub><code>C</code> <code>xv6</code> <code>OS Internals</code></sub>
+Preemptive process scheduler with configurable time quantum.
+<br><sub><code>C</code> <code>OS Internals</code></sub>
 
 </td>
 </tr>
@@ -58,8 +58,8 @@ Implemented the AdaBoost ensemble method from scratch — weak learners, weighte
 <td width="50%" valign="top">
 
 ### 🎮 Game Dev
-Self-taught game developer — building interactive systems for the joy of making things that move.
-<br><sub><code>C#</code> <code>Unity</code> <code>Godot</code></sub>
+Self-taught game developer — building interactive systems for the joy of making things that move satisfyingly.
+<br> <code>Unity</code> <code>Godot</code> <sub><code>Love2D</code></sub>
 
 </td>
 </tr>
@@ -71,10 +71,10 @@ Self-taught game developer — building interactive systems for the joy of makin
 
 ```python
 stack = {
-    "languages"  : ["C", "C++", "Python", "C#", "Java", "Assembly"],
-    "systems"    : ["Embedded", "Linux", "xv6", "Bare Metal"],
+    "languages"  : ["C", "C++", "Python", "C#", "Lua", "Assembly"],
+    "systems"    : ["Embedded", "Linux", "Bare Metal"],
     "ml"         : ["PyTorch", "NumPy", "scikit-learn", "LLM Eval"],
-    "math"       : ["Functional Analysis", "Lie Groups", "Manifolds", "Complex Analysis"],
+    "math"       : ["Functional Analysis", "Lie Groups", "Manifolds", "Game Theory"],
     "tools"      : ["Git", "Docker", "GDB", "Make", "Bash"],
     "game_dev"   : ["Unity", "Godot"],
 }
@@ -82,23 +82,6 @@ stack = {
 
 <br>
 
-## `$ cat experience.log | head`
-
-```
-[2024-present]  LLM Evaluation Engineer  @  Outlier AI
-                Evaluating & red-teaming large language models
-                for code generation, math reasoning, and safety.
-
-[2018]          Computer Vision Intern  @  Samsung Israel (R&D)
-                Built facial expression classification pipeline
-                for the shipped AR Emoji feature.
-
-[Military]      Certified Technician & Inspector  @  Israeli Air Force
-                Led maintenance and quality inspection on
-                precision-guided missile systems.
-```
-
-<br>
 
 ## `$ echo $PHILOSOPHY`
 

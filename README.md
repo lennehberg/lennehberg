@@ -9,7 +9,7 @@
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │                                                             |
-    │   Software Developer  ·  Mathematician  ·  Systems Bulder   │
+    │   Software Developer  ·  Mathematician  ·  Systems Builder  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```

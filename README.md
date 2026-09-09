@@ -23,6 +23,12 @@ Maths must-haves: **Functional Analysis**, **Analysis on Manifolds**, **Lie Grou
 
 <br>
 
+## `$ wip`
+
+### TinySim
+Working on a physics based robotics simulator, 
+<br>incorporating different sensor, components, path-finding and fallback algorithms
+
 ## `$ ls projects/`
 
 <table>
